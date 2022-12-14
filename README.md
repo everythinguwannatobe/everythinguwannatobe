@@ -2,10 +2,7 @@
 <br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
-
-  Well-qualified Full Stack Web & Blockchain and AI Developer familiar with wide range of programming utilities and languages.
-Knowledgeable and experienced of backend and frontend, as well as Machine Learning Deep Learning).
-Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 7+ years of related experience
+Experienced Ruby on Rails developer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize data storage, e- commerce functionality, and fluidity across mobile platforms.
 </p>
 <br/>
 <br/>
