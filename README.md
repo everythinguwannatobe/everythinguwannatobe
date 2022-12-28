@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
-Experienced Ruby on Rails developer who is enthusiastic about writing clean, efficient, and accessible code in a functional framework. Committed to the total development lifecycle, the maintenance of code quality and bug-free applications is of the utmost importance. Expert in leveraging the latest software tools to optimize data storage, e- commerce functionality, and fluidity across mobile platforms.
+Senior software engineer with 10 years of experience in the full software development cycle. Highly adept in leading engineer teams to achieve software development upgrades and increases business efﬁciency while delivering world-class solutions to clients.
 </p>
 <br/>
 <br/>
