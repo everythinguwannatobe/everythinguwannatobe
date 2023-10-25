@@ -2,7 +2,7 @@
 <br>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" />
   <p>
-Senior software engineer with 10 years of experience in the full software development cycle. Highly adept in leading engineer teams to achieve software development upgrades and increases business efﬁciency while delivering world-class solutions to clients.
+Senior Full Stack Engineer with 9 years of experience in the full software development cycle. Highly adept in leading engineer teams to achieve software development upgrades and increases business efﬁciency while delivering world-class solutions to clients.
 </p>
 <br/>
 <br/>
